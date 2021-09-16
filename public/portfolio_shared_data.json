@@ -1,0 +1,108 @@
+{
+    "basic_info": {
+      "name": "JIGNESH",
+      "titles": [ "Front-end Developer", "Back-end Developer", "Full-Stack Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "95"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJS",
+          "level": "90"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain",
+          "level": "80"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "Webpack",
+          "level": "75"
+        },
+        {
+          "class": "devicon-nodejs-plain-wordmark",
+          "name": "NodeJS",
+          "level": "75"
+        },
+        {
+          "class": "devicon-express-original-wordmark",
+          "name": "EexpressJS",
+          "level": "75"
+        },
+        {
+          "class": "devicon-mongodb-plain-wordmark",
+          "name": "MongoDB",
+          "level": "75"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP",
+          "level": "85"
+        },
+        {
+          "class": "devicon-codeigniter-plain-wordmark",
+          "name": "Codeigniter",
+          "level": "85"
+        },
+        {
+          "class": "devicon-mysql-plain-wordmark",
+          "name": "MySql",
+          "level": "85"
+        },
+        {
+          "class": "devicon-jquery-plain-wordmark",
+          "name": "jQuery",
+          "level": "75"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "class": "devicon-git-plain-wordmark",
+          "name": "GIT",
+          "level": "45"
+        },
+        {
+          "class": "devicon-trello-plain",
+          "name": "Trello",
+          "level": "55"
+        }
+      ]
+    }
+  }

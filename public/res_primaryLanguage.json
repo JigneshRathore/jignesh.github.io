@@ -1,0 +1,316 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Jignesh. I have been working as a professional Full-stack Engineer for 5 long years now :) Experienced in all phases of the web applications Development Life Cycle, specializing in MERN/LAMP stack development. I also have acquired fame and popularity as a Front-end React Developer. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Customer Dashboard Web App",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows ...",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-vscode-plain",
+          "name": "VScode"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": ""
+        },
+        {
+          "class": "devicon-trello-plain",
+          "name": ""
+        },
+        {
+          "class": "devicon-socketio-original",
+          "name": ""
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-nodejs-plain-wordmark",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-mongodb-plain-wordmark",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-mysql-plain-wordmark",
+          "name": "MySql"
+        },
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": ""
+        },
+        {
+          "class": "devicon-jquery-plain-wordmark",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-git-plain-wordmark",
+          "name": ""
+        },
+        {
+          "class": "devicon-express-original-wordmark",
+          "name": "EexpressJS"
+        },
+        {
+          "class": "devicon-codeigniter-plain-wordmark",
+          "name": "Codeigniter"
+        }
+      ]
+    },
+    
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows ...",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-vscode-plain",
+          "name": "VScode"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": ""
+        },
+        {
+          "class": "devicon-trello-plain",
+          "name": ""
+        },
+        {
+          "class": "devicon-socketio-original",
+          "name": ""
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-nodejs-plain-wordmark",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-mongodb-plain-wordmark",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-mysql-plain-wordmark",
+          "name": "MySql"
+        },
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": ""
+        },
+        {
+          "class": "devicon-jquery-plain-wordmark",
+          "name": "jQuery"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-git-plain-wordmark",
+          "name": ""
+        },
+        {
+          "class": "devicon-express-original-wordmark",
+          "name": "EexpressJS"
+        },
+        {
+          "class": "devicon-codeigniter-plain-wordmark",
+          "name": "Codeigniter"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "startDate": "2018",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": ""
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "aapkapainter solutions",
+      "title": "Full-Stack Developer",
+      "years": "Feb 2019 – May 2021",
+      "mainTech": [
+        "MERN/LAMP Stack"
+      ],
+      "technologies": [
+        "ReactJS",
+        "NodeJS",
+        "JavaScript",
+        "PHP/Codeigniter",
+        "AWS Cloud",
+        "MySql",
+        "MongoDB",
+        "RxJS",
+        "REST API",
+        "Bootstrap",
+        "Material-UI"
+      ]
+    },
+    {
+      "company": "Nviera Technologies Pvt Ltd",
+      "title": "Back End Developer",
+      "years": "Sep 2018 – Jan 2019",
+      "mainTech": [
+        "LAMP Stack"
+      ],
+      "technologies": [
+        "ReactJS",
+        "NodeJS",
+        "JavaScript",
+        "PHP",
+        "MySql",
+        "REST API",
+        "Bootstrap"
+      ]
+    },
+    {
+      "company": "Presntr",
+      "title": "LAMP stack devloper",
+      "years": "Sep 2016 – Mar 2018",
+      "mainTech": [
+        "PHP/Codeigniter"
+      ],
+      "technologies": [
+        "SuiteCRM",
+        "PHP",
+        "Codeigniter",
+        "MySQL",
+        "HTML5",
+        "JavaScript",
+        "jQuery",
+        "CSS"
+      ]
+    },
+    {
+      "company": "SNT Solutions",
+      "title": "PHP Web Developer",
+      "years": "Jul 2015 – Dec 2015",
+      "mainTech": [
+        "PHP 7"
+      ],
+      "technologies": [
+        "PHP",
+        "MySQL",
+        "JavaScript",
+        "jQuery",
+        "HTML5",
+        "CSS"
+      ]
+    },
+    {
+      "company": "Infinity Infoway Private Limited",
+      "title": "Intern",
+      "years": "Jan 2015 – Jun 2015",
+      "mainTech": [
+        "PHP 5"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "PHP",
+        "MySQL"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
