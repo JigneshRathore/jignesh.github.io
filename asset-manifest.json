@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/beingdevelopers/jignesh.github.io/static/css/main.cce32172.chunk.css",
+    "main.js": "/beingdevelopers/jignesh.github.io/static/js/main.701259e5.chunk.js",
+    "main.js.map": "/beingdevelopers/jignesh.github.io/static/js/main.701259e5.chunk.js.map",
+    "runtime-main.js": "/beingdevelopers/jignesh.github.io/static/js/runtime-main.f459dea6.js",
+    "runtime-main.js.map": "/beingdevelopers/jignesh.github.io/static/js/runtime-main.f459dea6.js.map",
+    "static/css/2.9497e657.chunk.css": "/beingdevelopers/jignesh.github.io/static/css/2.9497e657.chunk.css",
+    "static/js/2.82a08f41.chunk.js": "/beingdevelopers/jignesh.github.io/static/js/2.82a08f41.chunk.js",
+    "static/js/2.82a08f41.chunk.js.map": "/beingdevelopers/jignesh.github.io/static/js/2.82a08f41.chunk.js.map",
+    "index.html": "/beingdevelopers/jignesh.github.io/index.html",
+    "precache-manifest.fc3013a2884acb62f00d7eb31cc2676e.js": "/beingdevelopers/jignesh.github.io/precache-manifest.fc3013a2884acb62f00d7eb31cc2676e.js",
+    "service-worker.js": "/beingdevelopers/jignesh.github.io/service-worker.js",
+    "static/css/2.9497e657.chunk.css.map": "/beingdevelopers/jignesh.github.io/static/css/2.9497e657.chunk.css.map",
+    "static/css/main.cce32172.chunk.css.map": "/beingdevelopers/jignesh.github.io/static/css/main.cce32172.chunk.css.map",
+    "static/js/2.82a08f41.chunk.js.LICENSE.txt": "/beingdevelopers/jignesh.github.io/static/js/2.82a08f41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f459dea6.js",
+    "static/css/2.9497e657.chunk.css",
+    "static/js/2.82a08f41.chunk.js",
+    "static/css/main.cce32172.chunk.css",
+    "static/js/main.701259e5.chunk.js"
+  ]
+}
